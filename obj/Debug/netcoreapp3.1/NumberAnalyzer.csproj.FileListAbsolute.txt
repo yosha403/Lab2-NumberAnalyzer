@@ -1,0 +1,14 @@
+C:\Users\YKunnummal\source\repos\NumberAnalyzer\bin\Debug\netcoreapp3.1\NumberAnalyzer.exe
+C:\Users\YKunnummal\source\repos\NumberAnalyzer\bin\Debug\netcoreapp3.1\NumberAnalyzer.deps.json
+C:\Users\YKunnummal\source\repos\NumberAnalyzer\bin\Debug\netcoreapp3.1\NumberAnalyzer.runtimeconfig.json
+C:\Users\YKunnummal\source\repos\NumberAnalyzer\bin\Debug\netcoreapp3.1\NumberAnalyzer.runtimeconfig.dev.json
+C:\Users\YKunnummal\source\repos\NumberAnalyzer\bin\Debug\netcoreapp3.1\NumberAnalyzer.dll
+C:\Users\YKunnummal\source\repos\NumberAnalyzer\bin\Debug\netcoreapp3.1\NumberAnalyzer.pdb
+C:\Users\YKunnummal\source\repos\NumberAnalyzer\obj\Debug\netcoreapp3.1\NumberAnalyzer.csproj.AssemblyReference.cache
+C:\Users\YKunnummal\source\repos\NumberAnalyzer\obj\Debug\netcoreapp3.1\NumberAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YKunnummal\source\repos\NumberAnalyzer\obj\Debug\netcoreapp3.1\NumberAnalyzer.AssemblyInfoInputs.cache
+C:\Users\YKunnummal\source\repos\NumberAnalyzer\obj\Debug\netcoreapp3.1\NumberAnalyzer.AssemblyInfo.cs
+C:\Users\YKunnummal\source\repos\NumberAnalyzer\obj\Debug\netcoreapp3.1\NumberAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\YKunnummal\source\repos\NumberAnalyzer\obj\Debug\netcoreapp3.1\NumberAnalyzer.dll
+C:\Users\YKunnummal\source\repos\NumberAnalyzer\obj\Debug\netcoreapp3.1\NumberAnalyzer.pdb
+C:\Users\YKunnummal\source\repos\NumberAnalyzer\obj\Debug\netcoreapp3.1\NumberAnalyzer.genruntimeconfig.cache
