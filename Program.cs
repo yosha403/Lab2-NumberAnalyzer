@@ -10,7 +10,9 @@ namespace NumberAnalyzer
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hi, this is Maddy");
             Console.Write("Please enter your name: ");
+            
             string name = Console.ReadLine();
             bool goOn = true;
             while (goOn == true)
